@@ -1,5 +1,9 @@
 # Oi, me chamo Gabriella Oliveira :raising_hand:
 
+Aqui você pode vizualizar meus projetos e estudos que venho realizando desde o início do meu aprendizado.
+
+:computer: Cursando Análise e Desenvolvimento de Sistemas | **SENAC**
+
 <!--
 **gaabyaolivera/gaabyaolivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
