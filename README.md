@@ -1,7 +1,9 @@
 # Oi, me chamo Gabriella Oliveira :raising_hand:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaabyaolivera&label=Profile%20views&color=0e75b6&style=flat" alt="gaabyaolivera" /> </p>
 
-Aqui você pode vizualizar meus projetos e estudos que venho realizando desde o início do meu aprendizado.<br>
+Aqui você pode vizualizar meus projetos e estudos que venho realizando desde o início do meu aprendizado.
+
+
 :computer: Cursando Análise e Desenvolvimento de Sistemas | **SENAC**
 
 ### Languages and Tools:
